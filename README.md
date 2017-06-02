@@ -19,3 +19,5 @@ Checkout [whatever site name(http://google.com)]
 `function someRandomCode(a){
 	return a
 }`
+
+![some random image](https://www.wired.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-25-at-12.15.43-PM-660x370.png)
