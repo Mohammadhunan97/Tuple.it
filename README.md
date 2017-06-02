@@ -7,10 +7,10 @@ header two
 ### header three
 
 Checkout [whatever site name(http://google.com)]
-> Some random blockquote
-> Rad
-> Bro
-> High *boldword* five even more **very boldword** 
+> Some random blockquote <br />
+> Rad <br />
+> Bro <br />
+> High *boldword* five even more **very boldword** <br />
 
 * Bullet point 
 + another bullet point
